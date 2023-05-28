@@ -49,6 +49,6 @@ spring:
     check-process-definitions: true
 
 wechat:
-  mpAppId: wxda97426bcfc3d1c2
-  mpAppSecret: ddfcee281e409528d728a45884f1ac94
-  userInfoUrl: http://ggkt2.vipgz1.91tunnel.com/admin/wechat/userInfo
+  mpAppId: ******
+  mpAppSecret: ******
+  userInfoUrl: ******
